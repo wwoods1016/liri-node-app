@@ -343,3 +343,103 @@ preview song: null
 album: I Want It That Way
 artist(s): Steel Panther
 ==================
+====== EVENT INFO ======
+0
+City: Columbia
+Concert Venue: The Senate
+Date: Invalid date==================
+====== EVENT INFO ======
+1
+City: Wilmington
+Concert Venue: Greenfield Lake Amphitheater
+Date: Invalid date==================
+====== EVENT INFO ======
+2
+City: Atlanta
+Concert Venue: Sweetwater 420 Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+3
+City: Knoxville
+Concert Venue: The Mill & Mine
+Date: Invalid date==================
+====== EVENT INFO ======
+4
+City: Memphis
+Concert Venue: Beale Street Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+5
+City: Lyons
+Concert Venue: Burning Can Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+6
+City: Beachwood
+Concert Venue: LaureLive
+Date: Invalid date==================
+====== EVENT INFO ======
+7
+City: Madison
+Concert Venue: Roostertail Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+8
+City: Louisville
+Concert Venue: Forecastle Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+9
+City: Portland
+Concert Venue: Thompson's Point
+Date: Invalid date==================
+====== EVENT INFO ======
+0
+City: Columbia
+Concert Venue: The Senate
+Date: Invalid date==================
+====== EVENT INFO ======
+1
+City: Wilmington
+Concert Venue: Greenfield Lake Amphitheater
+Date: Invalid date==================
+====== EVENT INFO ======
+2
+City: Atlanta
+Concert Venue: Sweetwater 420 Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+3
+City: Knoxville
+Concert Venue: The Mill & Mine
+Date: Invalid date==================
+====== EVENT INFO ======
+4
+City: Memphis
+Concert Venue: Beale Street Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+5
+City: Lyons
+Concert Venue: Burning Can Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+6
+City: Beachwood
+Concert Venue: LaureLive
+Date: Invalid date==================
+====== EVENT INFO ======
+7
+City: Madison
+Concert Venue: Roostertail Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+8
+City: Louisville
+Concert Venue: Forecastle Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+9
+City: Portland
+Concert Venue: Thompson's Point
+Date: Invalid date==================

@@ -35,13 +35,6 @@ function UserInputs (command, entry){
 }
 
 //Bands in Town
-
-//TODO: 
-    // Fix error in concerts where date isn't returned from API in proper format. Happens sometimes. 
-    // Fix error where bands with more than one word in the name doesn't return expected data.
-
-    // In README.md, fix portion that doesn't display as block of code in bash format.
-
 function showConcertInfo(entry){
     var queryUrl = "https://rest.bandsintown.com/artists/" + entry + "/events?app_id=codingbootcamp";
     request(queryUrl, function(error, response, body) {
