@@ -1,0 +1,345 @@
+====== EVENT INFO ======
+0
+City: Atlanta
+Concert Venue: Centennial Olympic Park
+Date: Invalid date==================
+====== EVENT INFO ======
+1
+City: West Palm Beach
+Concert Venue: SunFest
+Date: Invalid date==================
+====== EVENT INFO ======
+2
+City: Chillicothe
+Concert Venue: Summer Camp Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+3
+City: Monterey
+Concert Venue: California Roots Music and Arts Festival 2019
+Date: Invalid date==================
+====== EVENT INFO ======
+4
+City: Chula Vista
+Concert Venue: North Island Credit Union Ampitheatre
+Date: Invalid date==================
+====== EVENT INFO ======
+5
+City: Santa Barbara
+Concert Venue: Santa Barbara Bowl
+Date: Invalid date==================
+====== EVENT INFO ======
+6
+City: Fresno
+Concert Venue: Woodward Park
+Date: Invalid date==================
+====== EVENT INFO ======
+7
+City: Avila Beach
+Concert Venue: Avila Beach Golf Resort
+Date: Invalid date==================
+====== EVENT INFO ======
+8
+City: Sacramento
+Concert Venue: Papa Murphy's Park (Bonney Field)
+Date: Invalid date==================
+====== EVENT INFO ======
+9
+City: Berkeley
+Concert Venue: Hearst Greek Theatre
+Date: Invalid date==================
+====== EVENT INFO ======
+1
+City: West Palm Beach
+Concert Venue: SunFest
+Date: Invalid date==================
+====== EVENT INFO ======
+2
+City: Chillicothe
+Concert Venue: Summer Camp Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+3
+City: Monterey
+Concert Venue: California Roots Music and Arts Festival 2019
+Date: Invalid date==================
+====== EVENT INFO ======
+4
+City: Chula Vista
+Concert Venue: North Island Credit Union Ampitheatre
+Date: Invalid date==================
+====== EVENT INFO ======
+5
+City: Santa Barbara
+Concert Venue: Santa Barbara Bowl
+Date: Invalid date==================
+====== EVENT INFO ======
+6
+City: Fresno
+Concert Venue: Woodward Park
+Date: Invalid date==================
+====== EVENT INFO ======
+7
+City: Avila Beach
+Concert Venue: Avila Beach Golf Resort
+Date: Invalid date==================
+====== EVENT INFO ======
+8
+City: Sacramento
+Concert Venue: Papa Murphy's Park (Bonney Field)
+Date: Invalid date==================
+====== EVENT INFO ======
+9
+City: Berkeley
+Concert Venue: Hearst Greek Theatre
+Date: Invalid date==================
+====== EVENT INFO ======
+0
+City: Atlanta
+Concert Venue: Centennial Olympic Park
+Date: Invalid date==================
+====== EVENT INFO ======
+1
+City: West Palm Beach
+Concert Venue: SunFest
+Date: Invalid date==================
+====== EVENT INFO ======
+2
+City: Chillicothe
+Concert Venue: Summer Camp Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+3
+City: Monterey
+Concert Venue: California Roots Music and Arts Festival 2019
+Date: Invalid date==================
+====== EVENT INFO ======
+4
+City: Chula Vista
+Concert Venue: North Island Credit Union Ampitheatre
+Date: Invalid date==================
+====== EVENT INFO ======
+5
+City: Santa Barbara
+Concert Venue: Santa Barbara Bowl
+Date: Invalid date==================
+====== EVENT INFO ======
+6
+City: Fresno
+Concert Venue: Woodward Park
+Date: Invalid date==================
+====== EVENT INFO ======
+7
+City: Avila Beach
+Concert Venue: Avila Beach Golf Resort
+Date: Invalid date==================
+====== EVENT INFO ======
+8
+City: Sacramento
+Concert Venue: Papa Murphy's Park (Bonney Field)
+Date: Invalid date==================
+====== EVENT INFO ======
+9
+City: Berkeley
+Concert Venue: Hearst Greek Theatre
+Date: Invalid date==================
+====== EVENT INFO ======
+0
+City: Atlanta
+Concert Venue: Centennial Olympic Park
+Date: Invalid date==================
+====== EVENT INFO ======
+1
+City: West Palm Beach
+Concert Venue: SunFest
+Date: Invalid date==================
+====== EVENT INFO ======
+2
+City: Chillicothe
+Concert Venue: Summer Camp Music Festival
+Date: Invalid date==================
+====== EVENT INFO ======
+3
+City: Monterey
+Concert Venue: California Roots Music and Arts Festival 2019
+Date: Invalid date==================
+====== EVENT INFO ======
+4
+City: Chula Vista
+Concert Venue: North Island Credit Union Ampitheatre
+Date: Invalid date==================
+====== EVENT INFO ======
+5
+City: Santa Barbara
+Concert Venue: Santa Barbara Bowl
+Date: Invalid date==================
+====== EVENT INFO ======
+6
+City: Fresno
+Concert Venue: Woodward Park
+Date: Invalid date==================
+====== EVENT INFO ======
+7
+City: Avila Beach
+Concert Venue: Avila Beach Golf Resort
+Date: Invalid date==================
+====== EVENT INFO ======
+8
+City: Sacramento
+Concert Venue: Papa Murphy's Park (Bonney Field)
+Date: Invalid date==================
+====== EVENT INFO ======
+9
+City: Berkeley
+Concert Venue: Hearst Greek Theatre
+Date: Invalid date==================
+====== SONG INFO ======
+0
+song name: Never Gonna Give You Up
+preview song: https://p.scdn.co/mp3-preview/22bf10aff02db272f0a053dff5c0063d729df988?cid=c53c86bb3d824984b9945a15b9116903
+album: Whenever You Need Somebody
+artist(s): Rick Astley
+==================
+====== SONG INFO ======
+1
+song name: Never Gonna Give You Up
+preview song: https://p.scdn.co/mp3-preview/50376a95e8639932167e0995debc66e6eb7a2a54?cid=c53c86bb3d824984b9945a15b9116903
+album: Platinum & Gold Collection
+artist(s): Rick Astley
+==================
+====== SONG INFO ======
+2
+song name: Never Gonna Give You Up
+preview song: https://p.scdn.co/mp3-preview/24dd2fb4c49f97fcb78401b85fbb65b9897d4664?cid=c53c86bb3d824984b9945a15b9116903
+album: Brothers
+artist(s): The Black Keys
+==================
+====== SONG INFO ======
+3
+song name: Never, Never Gonna Give You Up
+preview song: https://p.scdn.co/mp3-preview/63c437780d5d746acd67ea732797f302ea59d9bd?cid=c53c86bb3d824984b9945a15b9116903
+album: b-sides and rarities
+artist(s): Cake
+==================
+====== SONG INFO ======
+4
+song name: Never Gonna Give You Up - 7" Mix
+preview song: https://p.scdn.co/mp3-preview/ecbbc5e7ad43a37596200832839250004b4f711b?cid=c53c86bb3d824984b9945a15b9116903
+album: 80s 100 Hits
+artist(s): Rick Astley
+==================
+====== SONG INFO ======
+5
+song name: Never Gonna Give You Up
+preview song: https://p.scdn.co/mp3-preview/ba58b6bbb511abf28d74789c3087622ae6873504?cid=c53c86bb3d824984b9945a15b9116903
+album: Never Gonna Give You Up
+artist(s): Mac Beez
+==================
+====== SONG INFO ======
+6
+song name: Never Gonna Give You Up
+preview song: https://p.scdn.co/mp3-preview/411cd632dc612b756d69525ee56e5805eef6eee7?cid=c53c86bb3d824984b9945a15b9116903
+album: 80 Totally 80s Hits
+artist(s): Rick Astley
+==================
+====== SONG INFO ======
+7
+song name: Never, Never Gonna Give You Up - Remastered
+preview song: https://p.scdn.co/mp3-preview/917cc365bb9918337fd74af6d5e2a0059f92d58e?cid=c53c86bb3d824984b9945a15b9116903
+album: The Boxset Collection
+artist(s): Lisa Stansfield
+==================
+====== SONG INFO ======
+8
+song name: Never Gonna Give You Up
+preview song: https://p.scdn.co/mp3-preview/a192b45ed05b41c7995755e3cf6a722a7873cd55?cid=c53c86bb3d824984b9945a15b9116903
+album: Kapena and More!
+artist(s): Kapena
+==================
+====== SONG INFO ======
+9
+song name: Never Gonna Give You Up
+preview song: null
+album: Dead Presidents Vol. 1/Music From The Motion Picture
+artist(s): Barry White
+==================
+====== MOVIE INFO ======
+Title: The Room
+Released: 2003
+IMDB Rating: 3.7
+Rotten Tomatoes Freshness: 26%
+Country of Production: USA
+Language: English
+Plot: Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again.
+Actors: Tommy Wiseau, Juliette Danielle, Greg Sestero, Philip Haldiman
+==================
+====== SONG INFO ======
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c53c86bb3d824984b9945a15b9116903
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+==================
+====== SONG INFO ======
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c53c86bb3d824984b9945a15b9116903
+album: Millennium
+artist(s): Backstreet Boys
+==================
+====== SONG INFO ======
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=c53c86bb3d824984b9945a15b9116903
+album: Covers Part IV
+artist(s): Anthem Lights
+==================
+====== SONG INFO ======
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=c53c86bb3d824984b9945a15b9116903
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+==================
+====== SONG INFO ======
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=c53c86bb3d824984b9945a15b9116903
+album: I Want It That Way
+artist(s): Mick Jensen
+==================
+====== SONG INFO ======
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=c53c86bb3d824984b9945a15b9116903
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+==================
+====== SONG INFO ======
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+==================
+====== SONG INFO ======
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=c53c86bb3d824984b9945a15b9116903
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+==================
+====== SONG INFO ======
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=c53c86bb3d824984b9945a15b9116903
+album: NKOTBSB
+artist(s): Backstreet Boys
+==================
+====== SONG INFO ======
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+==================
