@@ -10,7 +10,7 @@ var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
 
 var command = process.argv[2]; 
-var entry = process.argv.slice(3);
+var entry = process.argv.slice(3).join(" ");
 
 UserInputs(command, entry);
 

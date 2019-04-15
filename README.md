@@ -40,8 +40,6 @@ LIRI stands for Language Interpretation and Recognition Interface. LIRI is a com
     
     Output: The system will display a list of the next 10 events and locations where the artist or band will perform. The system will also log all the results in the log.txt file. 
 
-    NOTE: If the artist or band you are searching for uses a name that contains more than one word (ie: Moon Taxi, Aaron Neville, etc.), you must surround the full name in quotation marks. Here's an example search for concerts by Moon Taxi
-
     ```bash
         node liri.js concert-this "Moon Taxi"
     ```
